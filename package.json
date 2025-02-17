@@ -2,9 +2,9 @@
   "name": "My React Learnings",
   "version": "1.0.0",
   "description": "",
-  "main": "App.js",
   "scripts": {
-    "test": "jest"
+    "start" : "parcel index.html",
+    "build" : "parcel build index.html"
   },
   "author": "",
   "license": "ISC",
